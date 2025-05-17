@@ -1,6 +1,6 @@
 # 📝 Simple Notepad App (C# - Windows Forms)
 
-> **📅 Old Project Date:** October 15, 2024  
+> **📅 Old Project Date:** January 15, 2024  
 > **🧠 Type:** Educational / Experimental  
 > **👨‍💻 Language:** C# with Windows Forms
 
