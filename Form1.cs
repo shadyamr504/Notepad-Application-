@@ -105,10 +105,5 @@ namespace WindowsFormsApp1
                 richTextBox1.SelectionColor = colorDialog.Color;
             }
         }
-
-        private void editToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
