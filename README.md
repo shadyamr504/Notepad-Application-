@@ -21,8 +21,8 @@ Despite being a basic editor, it includes several useful features for text editi
 
 ## 📸 Screenshot
 
+![Screenshot](Notepad%20Screenshot.png)
 
-> ![App Screenshot](screenshot.png)
 
 ---
 
